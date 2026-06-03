@@ -1,120 +1,125 @@
-<h1 align="center">Hi 👋, I'm Roshen Reji</h1>
-<h3 align="center">AI Engineer | LLM Systems | Agentic AI | Computer Vision</h3>
+# Roshen Reji
 
-<p align="center">
-Building production-ready AI systems that solve real-world problems.
-</p>
+AI Engineer specializing in LLM systems, Retrieval-Augmented Generation (RAG), Agentic AI, and Computer Vision. Experienced in building and deploying production-grade AI applications across healthcare, analytics, and research domains.
 
 ---
 
-## 🚀 About Me
+## About
 
-🎓 B.Tech Graduate in Artificial Intelligence and Data Science
+I am a final-year B.Tech student in Artificial Intelligence and Data Science at Muthoot Institute of Technology and Science, Kerala.
 
-🤖 AI Engineer focused on:
+My work focuses on designing scalable AI systems, developing multi-agent workflows, optimizing retrieval pipelines, and deploying machine learning solutions on cloud platforms. I am particularly interested in building practical AI products that create measurable real-world impact.
+
+---
+
+## Core Expertise
+
 - Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
 - Agentic AI Systems
+- Natural Language Processing (NLP)
 - Computer Vision
 - Multimodal AI
-
-📚 IEEE Published Researcher
-
-☁️ Experience deploying AI systems on AWS and GCP
-
-🔬 Passionate about building practical AI products in Healthcare, Analytics, and Research
+- Model Evaluation & Optimization
+- Cloud Deployment & MLOps
 
 ---
 
-## 🛠️ Tech Stack
+## Technology Stack
 
 ### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### LLM & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-5C6BC0?style=flat-square)
+
+### Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-### Database & Search
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### Databases & Vector Search
 
-## 🌟 Featured Projects
-
-### 🏥 LucidCare - Multimodal Medical AI System
-- YOLOv8 + DenseNet + LLM Reasoning
-- 98%+ diagnostic accuracy
-- IEEE Published Research
-- Explainable AI for medical imaging
-
-### 🤖 Autonomous AI Analytics Platform
-- Multi-Agent AI using LangGraph
-- Planner, Analytics, ML, Reflection and Report Agents
-- Automated end-to-end data analytics
-- Dockerized production deployment
-
-### 🔍 AstroChat - RAG Research Assistant
-- Hybrid Retrieval (FAISS + BM25)
-- Meta-LLaMA Integration
-- AWS Deployment
-- 40% retrieval improvement
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-🏆 AWS Certified Cloud Practitioner
+### LucidCare — Multimodal Medical AI System
 
-🏆 NPTEL - Python for Data Science (IIT Madras)
+- Developed a multimodal diagnostic pipeline using YOLOv8, DenseNet, and LLM-based reasoning.
+- Achieved 98%+ diagnostic accuracy with explainable AI capabilities.
+- Published research in an IEEE conference.
+
+### Autonomous AI Analytics Platform
+
+- Built a multi-agent analytics platform using LangGraph and FastAPI.
+- Implemented planner, analytics, machine learning, reflection, and reporting agents.
+- Automated end-to-end analytical workflows with Docker-based deployment.
+
+### AstroChat — RAG-Powered Research Assistant
+
+- Designed a hybrid retrieval system combining FAISS and BM25.
+- Improved retrieval relevance through optimized RAG architecture.
+- Deployed on AWS with reproducible infrastructure and workflows.
 
 ---
 
-## 📈 GitHub Stats
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Python for Data Science — IIT Madras (NPTEL)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rosh-2&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rosh-2&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh-2&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh-2&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosh-2&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Current Focus
 
-📧 Email: rejiroshen2@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/roshenreji
-
-🌐 Portfolio: [Your Portfolio Link]
-
-🐙 GitHub: https://github.com/Rosh-2
-
----
-
-### 💡 Current Focus
-
-Building production-grade AI systems involving:
-- Agentic AI
-- LLM Evaluation
-- RAG Optimization
-- Medical AI
+- Agentic AI Systems
+- LLM Evaluation & Monitoring
+- Retrieval-Augmented Generation (RAG)
+- Multimodal Healthcare AI
 - AI Analytics Platforms
-- Cloud-native AI Applications
+- Production AI Infrastructure
+
+---
+
+## Connect
+
+- Email: **rejiroshen2@gmail.com**
+- LinkedIn: **https://linkedin.com/in/roshenreji**
+- GitHub: **https://github.com/Rosh-2**
+- Portfolio: **Your Portfolio URL**
+
+---
