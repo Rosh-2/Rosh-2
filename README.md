@@ -120,6 +120,6 @@ My work focuses on designing scalable AI systems, developing multi-agent workflo
 - Email: **rejiroshen2@gmail.com**
 - LinkedIn: **https://linkedin.com/in/roshenreji**
 - GitHub: **https://github.com/Rosh-2**
-- Portfolio: **Your Portfolio URL**
+- Portfolio: **https://portfolio-vert-zeta-sx4ebhbwqg.vercel.app/**
 
 ---
