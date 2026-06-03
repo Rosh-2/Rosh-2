@@ -9,7 +9,7 @@ Building production-ready AI systems that solve real-world problems.
 
 ## 🚀 About Me
 
-🎓 Final Year B.Tech Student in AI & Data Science at Muthoot Institute of Technology and Science
+🎓 B.Tech Graduate in Artificial Intelligence and Data Science
 
 🤖 AI Engineer focused on:
 - Large Language Models (LLMs)
